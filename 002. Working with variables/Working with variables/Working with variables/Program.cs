@@ -10,10 +10,12 @@ namespace Working_with_variables
     {
         static void Main(string[] args)
         {
-            int intData; // use to declare integer number
-            double doubleData; // use to declare deciaml number
-            string stringData; // use to declare character or string
+            int intData = 99; // use to declare integer number
+            double doubleData = 10.55; // use to declare deciaml number
+            string stringData = "Hello C#"; // use to declare character or string
 
+            Console.WriteLine(stringData + " " + doubleData + " " + intData);
+            Console.ReadLine();
         }
     }
 }

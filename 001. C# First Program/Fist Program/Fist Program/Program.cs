@@ -10,6 +10,7 @@ namespace Fist_Program
     {
         static void Main(string[] args)
         {
+            // print hello C# message program
             string msg = "Hello C#";
             Console.WriteLine(msg);
             Console.ReadLine();

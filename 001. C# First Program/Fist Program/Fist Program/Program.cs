@@ -12,6 +12,7 @@ namespace Fist_Program
         {
             string msg = "Hello C#";
             Console.WriteLine(msg);
+            Console.ReadLine();
         }
     }
 }

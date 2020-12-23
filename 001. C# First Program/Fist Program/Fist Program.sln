@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fist Program", "Fist Program\Fist Program.csproj", "{A6D99FEC-0CC5-45FB-AB76-944EB7029EB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D99FEC-0CC5-45FB-AB76-944EB7029EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D99FEC-0CC5-45FB-AB76-944EB7029EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D99FEC-0CC5-45FB-AB76-944EB7029EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D99FEC-0CC5-45FB-AB76-944EB7029EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14923FF2-1962-49C8-B631-95AB516C20A9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Learning Net\002. Working with variables\Working with variables\Working with variables\obj\Debug\Working with variables.csprojAssemblyReference.cache
+C:\Learning Net\002. Working with variables\Working with variables\Working with variables\obj\Debug\Working with variables.csproj.CoreCompileInputs.cache
+C:\Learning Net\002. Working with variables\Working with variables\Working with variables\bin\Debug\Working with variables.exe.config
+C:\Learning Net\002. Working with variables\Working with variables\Working with variables\bin\Debug\Working with variables.exe
+C:\Learning Net\002. Working with variables\Working with variables\Working with variables\bin\Debug\Working with variables.pdb
+C:\Learning Net\002. Working with variables\Working with variables\Working with variables\obj\Debug\Working with variables.exe
+C:\Learning Net\002. Working with variables\Working with variables\Working with variables\obj\Debug\Working with variables.pdb

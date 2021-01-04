@@ -1,0 +1,7 @@
+C:\Learning Net\001. C# First Program\Fist Program\Fist Program\bin\Debug\Fist Program.exe.config
+C:\Learning Net\001. C# First Program\Fist Program\Fist Program\bin\Debug\Fist Program.exe
+C:\Learning Net\001. C# First Program\Fist Program\Fist Program\bin\Debug\Fist Program.pdb
+C:\Learning Net\001. C# First Program\Fist Program\Fist Program\obj\Debug\Fist Program.csprojAssemblyReference.cache
+C:\Learning Net\001. C# First Program\Fist Program\Fist Program\obj\Debug\Fist Program.csproj.CoreCompileInputs.cache
+C:\Learning Net\001. C# First Program\Fist Program\Fist Program\obj\Debug\Fist Program.exe
+C:\Learning Net\001. C# First Program\Fist Program\Fist Program\obj\Debug\Fist Program.pdb
